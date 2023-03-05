@@ -1,0 +1,76 @@
+body {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+}
+.header {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    text-decoration: underline;
+}
+.email {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    margin-left: 790px;
+    margin-top: 50px;
+    height: 70px;
+    width: 300px;
+    align-content: center;
+}
+.pw {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    margin-left: 790px;
+    margin-top: 50px;
+    height: 70px;
+    width: 300px;
+    align-content: center;
+}
+.btn1 {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: wheat;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 790px;
+    margin-top: 50px;
+    height: 70px;
+    width: 300px;
+    align-items: center;
+    border-radius: 50px;
+}
+.account1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.account1 a {
+    text-decoration: none;
+}
+.Benutzer {
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+    margin-left: 790px;
+    margin-top: 50px;
+    height: 70px;
+    width: 300px;
+    align-content: center;
+}
